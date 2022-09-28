@@ -3,6 +3,10 @@ Professional portfolio
 ## Description
 a progressive culmination of my academic and professional projects to utalize for job applications and resumes.
 
+![image of webapage deployed](./IMAGES/Tazlina%20Shake%20Portfolio%20gif.gif)
+
+ http://www.tazlina.com/
+
 ## User Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
